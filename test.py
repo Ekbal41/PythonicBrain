@@ -1,8 +1,6 @@
-from PythonicBrain.Math import plus
+from PythonicBrain.PBMath import Random
 
-
-res = plus(1,2)
+res = Random.seed(34)
 
 print(res)
-
 

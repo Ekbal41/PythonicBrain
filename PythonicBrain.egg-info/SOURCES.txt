@@ -6,5 +6,5 @@ PythonicBrain.egg-info/PKG-INFO
 PythonicBrain.egg-info/SOURCES.txt
 PythonicBrain.egg-info/dependency_links.txt
 PythonicBrain.egg-info/top_level.txt
-PythonicBrain/Math/__init__.py
-PythonicBrain/Math/plus.py
+PythonicBrain/PBMath/Random.py
+PythonicBrain/PBMath/__init__.py
