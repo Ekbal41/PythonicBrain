@@ -1,1 +1,1 @@
-from .core.table_function.table import maketableof
+from .core.table_functions.table import maketableof
