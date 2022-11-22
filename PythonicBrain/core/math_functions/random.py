@@ -1,5 +1,5 @@
 
-def seed(seed = None, a=0, b=10,  N=10**12, integer=True):
+def randomnumber(seed = None, a=0, b=10,  N=10**12, integer=True):
    
     if seed:
         global rand_num_generator 
