@@ -1,4 +1,4 @@
-# PythoniBrain
+# PythonicBrain
 
 ### Install
 
